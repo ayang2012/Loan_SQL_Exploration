@@ -1,0 +1,24 @@
+AGENT_ID,NAME,SKILL_LEVEL,TEAM,START_DATE,END_DATE
+1,Annie Smith,Beginner,A,6/1/2007,5/31/2008
+1,Annie Smith,Medium,A,6/1/2008,10/31/2010
+1,Annie Smith,Advanced,A,11/1/2010,12/12/2999
+2,Jamir Wilfred,Beginner,B,8/1/2010,4/30/2011
+2,Jamir Wilfred,Beginner,A,5/1/2011,12/12/2999
+3,Blaine Flowerbottom,Beginner,B,8/1/2010,12/31/2010
+3,Blaine Flowerbottom,Medium,B,1/1/2011,12/12/2999
+4,Zandra Fliffle,Beginner,A,6/1/2007,8/30/2009
+4,Zandra Fliffle,Medium,A,9/1/2009,8/30/2010
+4,Zandra Fliffle,Advanced,A,9/1/2010,8/30/2011
+4,Zandra Fliffle,Advanced,B,9/1/2011,12/12/2999
+5,Sandy Hsu,Beginner,B,9/1/2011,12/12/2999
+6,Bridget Clinton,Beginner,A,8/1/2010,4/30/2011
+6,Bridget Clinton,Medium,A,5/1/2011,12/12/2999
+7,Perry Hotter,Beginner,B,6/1/2007,8/30/2009
+7,Perry Hotter,Medium,B,9/1/2009,8/30/2010
+7,Perry Hotter,Medium,A,9/1/2010,8/30/2011
+7,Perry Hotter,Advanced,A,9/1/2011,12/12/2999
+8,Mindy Moo,Beginner,B,10/1/2010,7/31/2011
+8,Mindy Moo,Beginner,A,8/1/2011,10/31/2011
+9,Taylor Trout,Beginner,B,4/1/2007,6/30/2009
+9,Taylor Trout,Medium,B,7/1/2009,11/30/2010
+9,Taylor Trout,Advanced,B,12/1/2010,12/12/2999
