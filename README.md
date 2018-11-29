@@ -1,5 +1,6 @@
 # Loan_SQL_Exploration
-#sqlacademy 
+#sqlacademy
+
 Loan exploration with SQL and Python
 1. What is the average loan term (in months) for each agent?
 2. What is the percent of loans that have been charged off for each team (a charge off occurs
